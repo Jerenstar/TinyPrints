@@ -1,0 +1,151 @@
+﻿numero, nom, papier, technique d'impression, date, adresse, hauteur, largeur, émétteur, valeur,quantité
+001,Ticket de théâtre,"Couché Brillant ","Thermique ",27/04/2024,"23 Av. de la porte d’aube, 75018 Paris","12,2cm","5,8cm",Station Gare des Mines,"23,00€",1
+002,"Billet de musée ",Couché Brillant,Thermique,22/09/2024,Marseille,"7,2cm","6,7cm",Arles Express,0€,1
+003,Ticket de métro,"Papier cartonné Bande magnétique",,14/10/2020,"Nantes ","6,5cm",3cm,TAN,"1,49€",1
+004,"Billet de visite ",Couché Mat,Thermique,20/07/2007,"33 Av. du Maine, 75015 Paris",10cm,"5,5cm","Tour Montparnasse ","9,5€",1
+005,"Billet soirée ",Couché Mat,"Thermique ",28/06/2024,30 Blv. Sebastopol,"12,3cm","5,9cm",Phoenix party,0€,1
+006,"Billet d’entrée ","Couché Mat, perforations",Thermique,07/09/2022,"Route du Mont-Saint-Michel, 50170 Le Mont-Saint-Michel.","10,8cm","8,2cm",Abbaye du Mont-Saint-Michel,0€,2
+007,"Place de spectacle ","Couché Brillant ",Thermique,10/02/2025,"37 R. Quincampoix, 75004 Paris","8,3cm","4,4cm",Joke Comedy Club,"13,00€",1
+008,"Place de spectacle Équestre ",Couché Mat,Thermique,12/09/2008,"4 Bd. de la Reine, 7008, Versailles ","10,3","6,2cm",Château de Versailles - Bartabas,55€,1
+009,"Billet de musée ",Couché Mat,Thermique,3/10/2024,"Place Yves Klein, 06000 Nice","10,1cm",5cm,MAMAC Nice,0€,1
+010,Place de cinéma,Couché Mat,Thermique,18/10/2024,Brétigny-sur-Orge,"5,1cm","5,2cm","Joker: Folie à deux ","5,5€",1
+011,"Billet de musée ",Couché Mat,Thermique,27/03/2024,"6 Pl. d'Iéna, 75016 Paris","5,3cm","8,2cm",Musée des arts Asiatiques-Guimet,0€,1
+012,"Billet de TGV ",Couché Mat,Thermique,24/02/2024,Aix-en-Provence/ Marseille,"8,6cm","5,4cm",SNCF,"9,5€",2
+013,Billet de Bus,Couché Mat,Thermique,28/05/2024,Inchelon/ Séoul,"5,4cm",11cm,A*Rex,/,1
+014,Ticket de Parking,Couché Mat,Thermique,11/11/2024,"3 R. de la Croix des Maheux, 95000, Cergy","8,6cm","5,3cm","Centre commercial les 3 fontaines ",0€,1
+015,"Billet de visite ",Couché Mat,Thermique,15/09/2024,"Forte Belvedere, Via di S. Leonardo, 1, 50125 Firenze FI, Italie",6cm,"12,2cm",Comune di Firenze,0€,1
+016,Billet de théâtre,Couché Mat,"Thermique ",22/06/2024,"Plaza Arriaga, 1 Bilbao","5,9cm","15,1cm","Teatro Arriaga Antzokia  ",0€,1
+017,Billet de musée,Couché Mat,Thermique,08/05/2008,"7 avenue Winston Churchill, 75008","8,2cm","5,4cm",Nef du Grand Palais,4€,1
+018,Billet de musée,Couché Mat,Thermique,14/09/2008,"Les chantiers, Boulevard Léon Bureau, 44200, Nantes ",10cm,"5,4cm","Les Machines de Lille ",6€,1
+019,Ticket d’entrée,Couché Mat,Thermique,29/06/2008,"4 Rue Louis Armand, 75015, Paris","5,3cm","8,6cm",Aquaboulevard de Paris,/,1
+020,"Ticket d’entrée ",Couché Mat,Thermique,08/12/2024,"Pl. Charles de Gaulle, 75008 Paris","8,2cm","5,4cm",Arc de Triomphe,0€,1
+021,Ticket de métro,Couché Mat,Thermique,19/08/2023,"Bruxelles ","5,4cm","8,5cm",Réseau STIB,"2,60€",1
+022,Billet de festival,Couché Mat,Thermique,17/07/2016,Dialogues Brest,"6,2cm","11,2cm","Les Vieilles Charrues ","45,50€",1
+023,Billet de musée,Couché Mat,Quadrichromie,19/03/2017,"Grèce ","5,5cm",6cm,"Monuments and Museums of Greece ",0€,1
+024,"Billet de musée ","Couché Mat ",Quadrichromie/ Bande magnétique,/,"59-61 rue de Grenelle, 75007, Paris","5,4cm","8,5cm",Musée Maillol,0€,1
+025,Ticket de métro,Couché Brillant,Thermique/ Bande magnétique,/,Milan,"5,4cm","8,5cm",ATM Milano,"2,20€",1
+026,Billet de théâtre,Couché Mat,Thermique,5/12/2024,"36 rue des Mathurins, 75008, Paris","7,9cm","10,7cm",Théâtre des Mathurins,"26,50€",3
+027,"Ticket d’entrée ","Couché Brillant ",Thermique,15/08/2023,Slovaquie,"6,8cm",15cm,La Grotte de l’Ada,33€,1
+028,Ticket d’entrée,Couché Mat,"Thermique ","08/08/2023 ","Grèce ","8,2cm","7,7cm","Acropole d’Athènes ",0€,1
+029,"Ticket d’entrée ",Couché Mat,"Thermique ",27/11/2024,"Palais des Sports, Porte de Versailles, Paris 75015","8,2cm","20,3cm","Dirty Dancing ",0€,1
+030,Billet de théâtre,Couché Mat,Thermique,19/10/2024,"Le Passage vers les Étoiles, 17 Cité Joly, 75011 Paris","11,5cm","7,7cm",Les femmes sont parfaites…,"13,00€",1
+031,"Billet de musée ",Couché Mat,Thermique,22/12/2024,"11 R. François 1er, 75008, Paris","10,3cm","8,2cm","Dior Galerie ","10€ x2 ",2
+032,"Invitation Soirée ","Cartoné Mat ",Quadrichromie,28/09/2024,"8 Bd MacDonald, 75019, Paris","8,5cm","5,4cm",Kilomètre 25,/,1
+033,"Billet de train ","Couché recto Mat + verso Brillant ",Quadrichromie,21/11/2024,"Cosme Velho, Rio de Janeiro 091, Brésil","12,7cm",11cm,Trem do Corcovado,32€ x2,2
+034,Flyer Conférence,Couché Mat,Quadrichromie,31/10/2024,"1 Cours Paul Ricard, 75008, Paris","8,7cm",14cm,Fondation Pernod Ricard,0€,1
+035,Ticket d’entrée,"Mat ",Quadrichromie,26/03/2023,Perù,6cm,"7,7cm",Parque National del Manu,/,1
+036,"Ticket d’entrée ","Impression ",Quadrichromie,16/08/2023,Pologne,"14,5cm","4,5cm",Camp de concentration d'Auschwitz-Birkenau,/,1
+037,"Ticket d’entrée ","Mat ",Quadrichromie,06/09/2022,"All. du Président Menut, 50100, Cherbourg ","8,5cm","5,4cm",Cité de la Mer,0€,1
+038,"Billet de transport ",Couché Brillant recto/ Mat verso,Quadrichromie,/,Haut-de-France Mobilités,"8,5cm","5,4cm","Ilévia ",/,1
+039,Ticket de vestiaire,Jaune Mat,Thermique,26/10/2024,"Palais De Tokyo, 13 Av. du Président Wilson, 75016 Paris","3,3cm",11cm,Yoyo Club,3€ x2,2
+040,"Ticket de transport ",Couché Brillant recto/ Mat verso - Magnétique,Quadrichromie,18/05/2024,"Aix-En-Provence ","8,5cm","5,4cm",La métropole Mobilité,/,1
+041,Ticket de métro/bus/rer,Papier Carton/ Bande magnétique,Quadrichromie,07/2024,"Île de France Mobilité ",3cm,"6,4cm",RATP,5€,1
+042,"Place de cinéma ",Couché Mat,Thermique,26/02/2024,"Les Carmes, Orléans","5,2cm","5,1cm",Drive,"5,5€",1
+043,Ticket de caisse,"Fin, Mat",Thermique,22/11/2024,Rio De Janeiro,5cm,"5,7cm",Taranjinha,"129,96",1
+044,Étiquette Vêtement,Couché Brillant recto/ Mat verso Carton,Quadrichromie,/,Taille L,17cm,"5,3cm",NIKE,/,1
+045,"Notice, micro-édition","Carton Couché Mat ",Bichromie,/,/,"7,5cm","5,5cm",Fossil,/,1
+046,Étiquette Vêtement,"Brillant, Argent",Quadrichromie,/,/.,"8,9cm","5,3cm",/,/,1
+047,Étiquette Vêtement,"Couché Mat ",Quadrichromie,/,/,9cm,"5,4cm",PSG,/,1
+048,Étiquette Vêtement,Papier recyclé,Bichromie,/,/,4cm,10cm,Carhartt,/,1
+049,Étiquette Vêtement,Carton,Bichromie,/,/,9cm,"3,4cm",Carhartt,/,
+050,"Notice ","Papier fin ",Bichromie,/,/,"7,5cm","4,8cm (fermé)",Médicament,/,1
+051,Rond découpé,"Couché Mat ",Monochrome,/,/,"7,6cm","7,6cm",/,/,1
+052,Rond découpé,Couché Mat,Monochrome,/,/,"4,7cm","4,7cm",/,/,2
+053,Étiquette Vêtement,"Papier cartonné, Couché Mat ",Quadrichromie,/,/,6cm,"3,8cm",Carin,/,1
+054,Sous-Verre,Ouate,Quadrichromie,Rond," 5 Rue du Château d'Eau, 75010 Paris",9cm,9cm,Les Parigots,/,1
+055,Sous-Verre,Ouate,Quadrichromie,Rond,/,9cm,9cm,Heineken,/,2
+056,Sous-Verre,Ouate,Quadrichromie,Rond,"86 Rue Montmartre, 75002 Paris",9cm,9cm,Café Père & Fils,/,1
+057,Sous-Verre,Ouate,Quadrichromie,Carré,Amsterdam,"9,2cm","9,2cm",Brouwerij’t Ij,/,2
+058,Sous-Verre,Ouate,Quadrichromie,Carré,/,"9,2cm","9,2cm","L’autentica, Birra Moretti",/,2
+059,Sous-Verre,Ouate,Quadrichromie,Carré,/,10cm,10cm,Triple Karmeliet,/,1
+060,Packaging,Papier Carton,Bichromie,/,/,7cm,9cm,Skyr Siggi’s,/,1
+061,Carton remerciement,"Papier Mat ",Bichromie,/,/,"7,5cm",10cm,Leuchtturm,/,1
+062,"Packaging thé ","Papier cartonné, découpe",Quadrichromie,/,/,"14,7cm","7,5cm",Turkish Delight,/,1
+063,"Carte de visite/ Fidélité ",Papier recyclé Mat,Quadrichromie,Restaurant,"108 R. des Dames, 75017, Paris","5,5cm","8,5cm",I <3 Bo-Bun,/,1
+064,Carte de visite,Papier Mat,Quadrichromie,/,7 Rue Sainte-Croix de la Bretonnerie,"5,5cm","8,5cm",Point Virgule,/,1
+065,"Carte de visite ","Papier Couché Mat ",Quadrichromie,Restaurant,"8 R. de Dinan, 35400, Saint-Malo","5,5cm","8,5cm","Chez Tante Fernande ",/,1
+066,"Carte de visite ",Papier blanc cartonné,Bichromie,Restaurant,"2 R. de Viarmes, 75001, Paris","5,5cm","8,5cm","Bourse du commerce, La Halle aux Grains",/,1
+067,"Carte de visite ","Découpe, Papier cartonné",Quadrichromie,Restaurant,"69 R. des Gravilliers, 75003, Paris","8,8cm","6,5cm",404,/,1
+068,Carte de visite,Papier cartonné,Quadrichromie,Restaurant,"6 R. de Belzunce, 75010, Paris",4cm,"8,5cm",Casimir,/,1
+069,"Carte de visite ","Papier cartonné Mat ",Quadrichromie,Restaurant,"3 R. Saite-Croix de la Bretonnerie, 75004, Paris ","4,5cm",8cm,"Jaja ",/,1
+070,"Carte de visite ","Papier cartonné Mat ",Quadrichromie,Restaurant,"5 R. de l’isly, 75008, Paris",4cm,"8,5cm",Le Certa,/,1
+071,"Carte de visite ",Papier cartonné Mat Bicolore,Quadrichromie,,"24 R. Gabrielle Josserand, 93200, Patin","4,5cm",8cm,Keribus Éditions,/,1
+072,"Carte de visite ","Papier Vergé texturé ",Quadrichromie,Restaurant,"Via Conservatorio, 1, 43121, Parma","5,6cm","8,5cm",Trattoria Corrieri,/,1
+073,"Carte de visite ","Papier Vergé ",Bichromie,,20 R. du Fbg Poissonnière,5cm,5cm,Faubourg Daimant,/,1
+074,"Carte de visite ",Mat,Quadrichromie,,"Costa da Caparica, Portugal","5,5cm","8,5cm",Surf Films,/,1
+075,"Carte de visite ",Papier Création,Quadrichromie,"Restaurant ","23 R. des jeûneurs, 75002, Paris","5,5cm","8,5cm",Bambou Kitchen,/,1
+076,"Carte de visite ","Papier Mat ",Bichromie,"Bar  ","48 R. de Caulaincourt, 75018, Paris","5,5cm","8,5cm","La niche, bistrot, disco",/,1
+077,"Carte de visite ",Papier Création,Bichromie,Hôtel,"135 Bld Diderot, 75012, Paris","5,5cm","8,5cm","Hôtel Paradiso, Cinéma-Hôtel",/,1
+078,"Carte de visite ","Papier Mat ",Bichromie,Mathieu Trombert Responsable du développement commercial,,"5,5cm","8,5cm","Du vin ",/,1
+079,"Carte de visite ","Papier Lisse ",Quadrichromie,"Restaurant ","46 R. Jean-Pierre Timbaud, 75011, Paris","5,5cm","8,5cm","Oté ",/,1
+080,"Carte de visite ","Papier Lisse ",Monochrome,"Artiste ",La Rochelle,"5,5cm","8,5cm",Illustratrice,/,1
+081,"Carte de visite ","Papier Lisse ",Monochrome,Salon de coiffure,"119 R. de Bicêtre, 94240, L’Haÿ-les-Roses","5,5cm","8,5cm","Créa-tifs coiffure ",/,1
+082,"Carte de visite ","Papier Lisse ",Quadrichromie,"Restaurant ","Borgo della Salina 3, Parma, Illustrateur, Jessie Désolée ","5,5cm","8,5cm",Gallo d’Oro,/,1
+083,"Carte de visite ","Aiment imprimé ","Quadrichromie recto ",Hôtel,"Rio de Janeiro, Brasil","7,7cm","4,9cm",Pura Vida Hostel,/,1
+084,"Carte de visite ","Papier Brillant ","Quadrichromie, recto",Artiste,"Rio de Janeiro, Brasil","8,9cm","4,9cm",Camila Rodrigues,/,1
+085,"Carte de visite ",Papier Mat,Bichromie,,"41 R. du Temple, 75004, Paris","4,5cm",8cm,GrandCoeur,/,1
+086,"Flyer/ QR code ","Papier Lisse ",Bichromie,,/,"5,5cm","8,5cm",/,/,1
+087,"Ticket à Gratter ",Papier Carton,"Encre à gratter, Quadrichromie",,/,"7,7cm",5cm,FDJ,1€,1
+088,"Carte de visite ","Papier Tramé Blanc, Bords arrondis",Bichromie,"Julien Fitoussi, CEO",/,"5,5cm","8,5cm","Terrah, Paris",/,1
+089,"Flyer/ QR code ",Papier Cartonné,Quadrichromie,19/06/2024,Sneaky Pete’s Club,"5,5cm","8,5cm",Cosmic Slop,/,1
+090,Bon d’achat,Papier 70gr,Quadrichromie,/,"La Samaritaine, 9 R. de la Monnaie, 75001, Paris","5,3cm","8,3cm","Samaritaine/ DFS Circle ",/,1
+091,"Flyer Information contravention ",Papier 70gr Bleu,Monochrome,/,"Nantes ","9,9cm","9,4cm","Ville de Nantes ",/,1
+092,"Sticker ","Papier Autocollant, Verso Mat ",Quadrichromie,"Café Vegan ",/,7cm,"5,5cm",Nuldam Space,/,1
+093,"Ticket  Scrapbooking ",Papier recyclé,"Monochrome, marquage à chaud",/,/,"4,5cm","9,5cm",/,/,1
+094,Linogravure,Papier de création,"Encre noire, Linogravure ",/,/,"5,3cm","4,3cm",/,/,1
+095,"Sticker ","Papier Autocollant, Verso Mat ",Quadrichromie,@nuldam_offical@nuldam_space,/,8cm,"5,6cm",Nuldam Space,/,1
+096,"Sticker ","Papier Autocollant, Brillant ",Quadrichromie,"“Soigne aussi l’injustice” Café Vegan ",/,"3,3cm","7,4cm",Médecin du Monde,/,1
+097,Scrapbooking,"Papier 70gr ",Quadrichromie,/,/,"3,1cm",8cm,/,/,1
+098,"Sticker ","Papier Autocollant ",Quadrichromie,/,/,"9,8cm","9,3cm",/,/,1
+099,"Sticker ","Papier Autocollant ",Quadrichromie,/,/,"9,7cm","9,7cm",/,/,1
+100,"Sticker ","Papier Autocollant Verso Mat ",Quadrichromie,Agence l’événementiel,/,"7,5cm","12,5cm",Magic Garden,/,1
+101,"Sticker ","Papier Autocollant Verso Brillant ",Quadrichromie,Soirée Italian Disco,/,"10,6cm","10,6cm","Toy Tonics Italomania ",/,1
+102,"Sticker ","Papier Autocollant Verso Mat ",Quadrichromie,"Café Vegan ",/,7cm,"5,5cm","Nuldam Space ",/,1
+"103 ","Flyer ",Papier 70gr,Quadrichromie,/,/,"14,7cm","10,4cm","Toy Tonics ",/,2
+104,"Flyer ",Papier Cartonné,Quadrichromie,“Balade au Pays des artistes”,"5 R. Jean-Pierre Timbaud, 75011, Paris","14,7cm","10,4cm",La Slow Galerie," /",1
+105,Carte postale,Papier Cartonné,Quadrichromie,"Vernissage ","5 R. Jean-Pierre Timbaud, 75011, Paris","14,7cm","10,4cm",La Slow Galerie,/,1
+106,Post-it,Papier jaune,Stylo Bic,"Note ",/,"7,8cm","7,6cm",/,/,1
+107,Étiquette Vêtement,"Papier cartonné ",Monochrome,"One Size ",/,"7,7cm",5cm,/,/,1
+108,Sachet épices,Plastique,Bichromie,/,/,"4,5cm","3,5cm",/,/,1
+109,"Leporello ",Papier recyclé,Monochrome,/,/,10cm,7cm,Leuchtturm,/,1
+110,Place-nom,Papier cartonné/ Découpe,Quadrichromie,/,/,8cm,6cm,/,/,1
+111,Linogravure,Papier de Création,"Encre noire Linogravure ",/,/,5cm,"4,5cm",/,/,1
+112,Leporello Marque-Pages,"Effet métallique, Monochrome",Étudiants Master option communication,22/08/2025,/,15cm,"5,3cm (fermé)",École Nationale supérieure d’art et de design de Nancy,/,2
+113,"Bon cordonnier ","Annotation manuelle, Tampon, Papier carreaux ",Quadrichromie,/,"54 Av. de Saint-Ouen, 75018, Paris","14,7cm","9,2cm","Fil d’or ",30€,1
+114,Étiquette prix,Papier autocollant Verso Fluo,"Bicolore ",/,/,"1,2cm",2cm,"Banca Duvivier ",65€,1
+115,"Ticket de caisse ","Papier Thermique 55gr ","Monochrome/ Thermique ",24/11/2024,"Av. Pasteur, 520, Urca, Rio de Janeiro","13,6cm","7,7cm",La Carioca Da Gema,16 Réal,1
+116,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,29/10/2024,"75005, Paris","8,5cm","5,5cm",/,"15,80€",1
+117,Papier d’Arménie,Papier parfumé à la résine de benjoin du Laos,Monochrome,/,/,"1,9cm",8cm,/,/,1
+118,Papier OCB,"Papier Bible ",Monochrome,/,/,"3,5cm","6,9cm",OCB,/,1
+119,"Ticket de caisse ",Papier Thermique 55 gr,Monochrome/ Thermique,/,"Corée ",27cm,8cm,Korea Beauty Festival,/,1
+120,"Ticket de caisse ","Papier Thermique 55gr ",Monochrome/ Thermique,02/07/2024,Indonésie,"12,3cm","5,7cm",Circle K,44 000 IDR (Roupie indonésienne),1
+121,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,15/11/2024,Paris,"11,1cm",8cm,Franprix,"6,99€",1
+122,"Ticket de caisse ",Papier Thermique 70gr,Monochrome/ Thermique,17/08/2024,"11 Av. Jean Jaurès, 78390, Bois d’Arcy","17,6cm",6cm,Leclerc Bois d’Arcy,"10,63€",1
+123,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,07/11/2024,"75005, Paris","8,4cm","5,6cm",IKI,"13,00€",1
+124,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,12/06/2023,Paris,"8,8cm","5,6cm","Dr Rivollier ","82,50€",1
+125,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,29/08/2024,Corbeille Essonne,"8,7cm","5,6cm",Malla Osman,60€,1
+126,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,22/09/2023,"75017, Paris",9cm,"5,6cm",Le Nova,"7,00€1",1
+127,Reçu carte bleue,"Papier Thermique 55gr ",Monochrome/ Thermique,08/08/2024,"75013, Paris","9,5cm","5,6cm",Pharmacie,"31,80€",1
+128,"Prospectus Voyant ",Papier Impression 70gr,Monochrome,/,/,8cm,"10,4cm",Professeur Hassan,/,/
+129,"Timbres ","Timbres autocollants, Enveloppe blanche","Tampon La Poste, Écriture manuelle",/,/,"3,5cm","4,5cm",Destinataire: Pierre Capelle,/,3
+130,Ouverture d’emballage,Papier Cartonné,"Monochrome, perforations d’ouverture",/,/,"1,3cm","6,7cm",/,/,1
+131,"Partition ",Papier Kraft Vintage,Monochrome,/,/,"4,3cm",7cm,/,/,1
+132,"Papier annoté ",Papier Impression 70gr,"Feutre ",/,/,"3,7cm / 3,8cm / 3,9cm","10,6cm / 10,5cm / 10,6cm",Samia Toucheet (22) Aliénor de Rothschild (9) Louise Bouniol (5),/,3
+133,Ticket Roue de la Fortune,Papier Impression 70gr,Monochrome,/,"37 Rue des Lombards, 75001, Paris","4,7cm","7,2cm",Le Labo,817 - 815 - 836,3
+134,Billet d’avion,"Papier Thermique 55gr ","Monochrome/ Thermique ",17/06/2023,Lima,8cm,"21,5cm","LATAM Perù Airlines ",6D,1
+135,"Ticket de caisse ","Papier Thermique 55gr ","Monochrome/ Thermique ",25/08/2024,"Miradouro da Ferraria 3, 2710-591 Sintra, Portugal","11,8cm","5,6cm",Sintra Terrace,"50,40€",1
+136,"Présage Fortune cookie ","Papier Brillant ",Dorure/ Monochrome,/,/,"4,6cm","13,2cm",/,/,1
+137,"Reçu de carte bleue ","Papier Thermique 55gr ","Monochrome/ Thermique ",24/11/2024,Rio de Janeiro,"4,2cm","5,7cm",Banque Brésilienne,"16,00R$",1
+138,"Sticker ","Papier adhésif brillant ",Quadrichromie,/,/,4cm,4cm,"Vélosophe ",/,1
+139,"Carte de visite ","Papier grain bleu ",Sérigraphie,/,"2 Place du Caire, 75002 Paris","6,7cm","4,6cm","Hôtel du Sentier ",/,1
+140,Carte de visite,Papier mat,Vernis sélectif,/,"88 Place de la Fruitière, 74310 Les Houches ","5,5cm","8,5cm",Fromagerie de la Fruitière,/,1
+141,"Carte de visite ","Papier brillant ",Quadrichromie,/,"Winston Salem, Greensboro USA","5,2cm","8,9cm",La Colonia,/,1
+142,Forfait de ski,Papier lisse brillant,Thermique / Quadrichromie,30/11/2011,"Grand Montet, Chamonix","8,6cm","5,4cm",Compagnie du Mont Blanc,"27,00€",1
+143,"Packaging Cigare ",Carton épais,Monochrome,/,/,"7,8","10,1cm",Cawith Hoccart&Co,/,1
+144,"Billet ",Papier coton,"Filigranes ","/ ",Angleterre,"6,6cm","13,5cm",Banque of England,1£,1
+145,Ticket de métro,Papier cartonné,"Tamponné, poinçonné",1973,Paris,3cm,"5,6cm",RATP,/,2
+146,Carte de métro,Papier cartonné coloré,"Tamponné, poinçonné",1973,Paris,"5,7cm",13cm,RATP,/,1
+147,"Sticker ",Papier adhésif holographique,"Découpe Lazer ",/,"Paris ","4,4cm","4,4cm",Tradi 09,/,1
+148,Sticker,Papier adhésif holographique,Découpe Lazer,/,/,"4,4cm",7cm,"Tradi09 ",/,1
+149,"Bon de retouche ",Papier cartonné coloré,Micro-perforation,8/03/2025,/,"5,8cm",10cm,/,/,1
+150,"Coin de livre ","Papier cartonné, vernis",Quadrichromie,/,/,2cm,"2,5cm",/,/,1

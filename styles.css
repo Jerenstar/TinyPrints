@@ -77,13 +77,36 @@ body {
     padding-left: 30px;
 }
 
+.site-desc-2 {
+    margin-left: 100px;
+}
+
 .header-menu {
-    display: flex;
-    flex-direction: row;
-    gap: 40px;
-    margin-bottom: 10px;
-    min-width: 160px;
-    justify-content: flex-end;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px 10px;
+    align-items: start;
+    justify-items: end;
+    min-width: 420px;
+}
+
+.header-menu .menu-link {
+    margin: 0;
+    justify-self: end;
+    align-self: start;
+}
+
+.header-menu .menu-link:nth-child(1) {
+    grid-column: 1;
+    margin-top: 0;
+}
+.header-menu .menu-link:nth-child(2) {
+    grid-column: 2;
+    margin-top: 20px;
+}
+.header-menu .menu-link:nth-child(3) {
+    grid-column: 3;
+    margin-top: 40px;
 }
 
 .menu-link {
@@ -113,15 +136,27 @@ body {
 }
 
 .sort-bar {
-    display: flex;
-    justify-content: flex-start;
-    gap: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 0.05fr));
+    gap: 10px 10px;
     width: 100%;
-    padding: 0px 0;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    font-family: Baskerville, Georgia, serif;
-    color: #222;
+    margin-left: 0;
+    margin-bottom: 3%;
+}
+
+.sort-bar .sort-option {
+    margin: 0;
+    justify-self: start;
+    align-self: start;
+}
+.sort-bar .sort-option:nth-child(1) {
+    margin-top: 0;
+}
+.sort-bar .sort-option:nth-child(2) {
+    margin-top: 20px;
+}
+.sort-bar .sort-option:nth-child(3) {
+    margin-top: 40px;
 }
 
 .sort-option {
@@ -287,7 +322,8 @@ body {
 }
 
 .viewer-img-container:hover {
-    transform: rotateY(180deg);
+    /* Désactivé pour éviter les flips aléatoires */
+    /* transform: rotateY(180deg); */
 }
 
 .viewer-img, .viewer-img.back {
@@ -385,19 +421,14 @@ body {
 }
 
 .viewer-meta-top {
-    position: absolute;
-    top: 32px;
+    position: fixed;
+    top: 20px;
     left: 0;
-    width: 100vw;
+    width: 100%;
     text-align: left;
-    font-family: Baskerville, Georgia, serif;
-    font-size: 1.1rem;
-    color: #222;
-    background: none;
-    z-index: 2101;
-    padding: 0 40px;
-    line-height: 1.2;
-    font-weight: 500;
+    padding: 20px;
+    font-family: inherit;
+    color: inherit;
     pointer-events: none;
     text-transform: lowercase;
 }
@@ -513,7 +544,7 @@ body {
     top: 20px;
     left: 0;
     width: 100%;
-    text-align: center;
+    text-align: left;
     padding: 20px;
     font-family: inherit;
     color: inherit;
@@ -526,7 +557,7 @@ body {
     bottom: 20px;
     left: 0;
     width: 100%;
-    text-align: center;
+    text-align: left;
     padding: 20px;
     opacity: 0;
     transition: opacity 0.3s ease;
