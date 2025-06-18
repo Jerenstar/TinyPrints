@@ -1,0 +1,151 @@
+nom,papier,technique d'impression,date,émétteur,adresse,hauteur,largeur,valeur,quantité,numero
+Ticket de bus,Recyclé,Offset,2020,TAN,1 rue du Transport,60,30,1€,10000,001
+Carte postale,Carton,Numérique,2019,La Poste,2 avenue du Timbre,100,150,0.8€,5000,002
+Coupon réduction,Mat,Offset,2021,Super U,3 place du Marché,50,80,2€,2000,003
+Etiquette vêtement,Brillant,Sérigraphie,2018,Zara,4 rue de la Mode,40,60,0.1€,30000,004
+Carte de visite,Carton,Numérique,2022,Imprimerie Dupont,5 avenue des Arts,55,85,0.2€,1000,005
+Badge événement,Plastifié,Numérique,2023,EventOrg,6 rue des Fêtes,70,100,0€,1500,006
+Ticket cinéma,Recyclé,Offset,2017,Gaumont,7 rue du Film,60,120,9€,8000,007
+Carte fidélité,Plastique,Numérique,2020,Carrefour,8 avenue du Client,54,86,0€,10000,008
+Etiquette bagage,Carton,Offset,2019,Air France,9 rue de l'Aéroport,60,100,0€,4000,009
+Carte d'accès,Plastique,Numérique,2021,Université,10 rue du Savoir,54,85,0€,2000,010
+Carte de bibliothèque,Plastique,Numérique,2018,Bibliothèque,11 rue des Livres,54,85,0€,3000,011
+Ticket de tram,Recyclé,Offset,2022,TAN,12 rue du Tramway,60,30,1.7€,12000,012
+Carte de membre,Carton,Numérique,2020,Club Sportif,13 rue du Sport,54,86,0€,800,013
+Etiquette alimentaire,Mat,Offset,2019,Supermarché,14 avenue des Fruits,40,60,0.05€,20000,014
+Carte cadeau,Carton,Numérique,2021,Fnac,15 rue du Cadeau,54,86,20€,500,015
+Ticket de parking,Recyclé,Offset,2018,Ville,16 rue du Stationnement,60,30,2€,7000,016
+Carte d'abonnement,Plastique,Numérique,2023,Théâtre,17 avenue des Arts,54,85,0€,600,017
+Etiquette colis,Carton,Offset,2020,La Poste,18 rue du Colis,60,100,0€,10000,018
+Carte d'identité,Plastique,Numérique,2019,Mairie,19 rue de la République,54,86,0€,1000,019
+Badge visiteur,Plastifié,Numérique,2022,Entreprise,20 rue du Bureau,70,100,0€,200,020
+Ticket de métro,Recyclé,Offset,2017,RATP,21 rue du Métro,60,30,1.9€,15000,021
+Carte d'accès piscine,Plastique,Numérique,2021,Commune,22 rue de la Piscine,54,85,0€,500,022
+Coupon repas,Carton,Offset,2018,Restaurant,23 avenue du Déjeuner,60,80,8€,3000,023
+Carte de transport scolaire,Plastique,Numérique,2020,Académie,24 rue de l'École,54,86,0€,1200,024
+Etiquette vin,Brillant,Sérigraphie,2019,Château,25 route du Vin,80,100,0.5€,10000,025
+Carte bancaire,Plastique,Numérique,2022,Banque,26 avenue de la Finance,54,86,0€,2000,026
+Badge conférence,Plastifié,Numérique,2023,ConfOrg,27 rue des Congrès,70,100,0€,800,027
+Ticket de concert,Recyclé,Offset,2018,ConcertLive,28 rue de la Musique,60,120,35€,4000,028
+Carte de réduction,Carton,Numérique,2021,Librairie,29 avenue du Livre,54,86,5€,1000,029
+Etiquette prix,Mat,Offset,2019,Magasin,30 rue du Commerce,30,50,0.01€,50000,030
+Carte de transport,Plastique,Numérique,2020,SNCF,31 rue de la Gare,54,85,0€,10000,031
+Ticket de bus,Recyclé,Offset,2021,TAN,32 rue du Transport,60,30,1€,10000,032
+Carte postale,Carton,Numérique,2019,La Poste,33 avenue du Timbre,100,150,0.8€,5000,033
+Coupon réduction,Mat,Offset,2021,Super U,34 place du Marché,50,80,2€,2000,034
+Etiquette vêtement,Brillant,Sérigraphie,2018,Zara,35 rue de la Mode,40,60,0.1€,30000,035
+Carte de visite,Carton,Numérique,2022,Imprimerie Dupont,36 avenue des Arts,55,85,0.2€,1000,036
+Badge événement,Plastifié,Numérique,2023,EventOrg,37 rue des Fêtes,70,100,0€,1500,037
+Ticket cinéma,Recyclé,Offset,2017,Gaumont,38 rue du Film,60,120,9€,8000,038
+Carte fidélité,Plastique,Numérique,2020,Carrefour,39 avenue du Client,54,86,0€,10000,039
+Etiquette bagage,Carton,Offset,2019,Air France,40 rue de l'Aéroport,60,100,0€,4000,040
+Carte d'accès,Plastique,Numérique,2021,Université,41 rue du Savoir,54,85,0€,2000,041
+Carte de bibliothèque,Plastique,Numérique,2018,Bibliothèque,42 rue des Livres,54,85,0€,3000,042
+Ticket de tram,Recyclé,Offset,2022,TAN,43 rue du Tramway,60,30,1.7€,12000,043
+Carte de membre,Carton,Numérique,2020,Club Sportif,44 rue du Sport,54,86,0€,800,044
+Etiquette alimentaire,Mat,Offset,2019,Supermarché,45 avenue des Fruits,40,60,0.05€,20000,045
+Carte cadeau,Carton,Numérique,2021,Fnac,46 rue du Cadeau,54,86,20€,500,046
+Ticket de parking,Recyclé,Offset,2018,Ville,47 rue du Stationnement,60,30,2€,7000,047
+Carte d'abonnement,Plastique,Numérique,2023,Théâtre,48 avenue des Arts,54,85,0€,600,048
+Etiquette colis,Carton,Offset,2020,La Poste,49 rue du Colis,60,100,0€,10000,049
+Carte d'identité,Plastique,Numérique,2019,Mairie,50 rue de la République,54,86,0€,1000,050
+Badge visiteur,Plastifié,Numérique,2022,Entreprise,51 rue du Bureau,70,100,0€,200,051
+Ticket de métro,Recyclé,Offset,2017,RATP,52 rue du Métro,60,30,1.9€,15000,052
+Carte d'accès piscine,Plastique,Numérique,2021,Commune,53 rue de la Piscine,54,85,0€,500,053
+Coupon repas,Carton,Offset,2018,Restaurant,54 avenue du Déjeuner,60,80,8€,3000,054
+Carte de transport scolaire,Plastique,Numérique,2020,Académie,55 rue de l'École,54,86,0€,1200,055
+Etiquette vin,Brillant,Sérigraphie,2019,Château,56 route du Vin,80,100,0.5€,10000,056
+Carte bancaire,Plastique,Numérique,2022,Banque,57 avenue de la Finance,54,86,0€,2000,057
+Badge conférence,Plastifié,Numérique,2023,ConfOrg,58 rue des Congrès,70,100,0€,800,058
+Ticket de concert,Recyclé,Offset,2018,ConcertLive,59 rue de la Musique,60,120,35€,4000,059
+Carte de réduction,Carton,Numérique,2021,Librairie,60 avenue du Livre,54,86,5€,1000,060
+Etiquette prix,Mat,Offset,2019,Magasin,61 rue du Commerce,30,50,0.01€,50000,061
+Carte de transport,Plastique,Numérique,2020,SNCF,62 rue de la Gare,54,85,0€,10000,062
+Ticket de bus,Recyclé,Offset,2021,TAN,63 rue du Transport,60,30,1€,10000,063
+Carte postale,Carton,Numérique,2019,La Poste,64 avenue du Timbre,100,150,0.8€,5000,064
+Coupon réduction,Mat,Offset,2021,Super U,65 place du Marché,50,80,2€,2000,065
+Etiquette vêtement,Brillant,Sérigraphie,2018,Zara,66 rue de la Mode,40,60,0.1€,30000,066
+Carte de visite,Carton,Numérique,2022,Imprimerie Dupont,67 avenue des Arts,55,85,0.2€,1000,067
+Badge événement,Plastifié,Numérique,2023,EventOrg,68 rue des Fêtes,70,100,0€,1500,068
+Ticket cinéma,Recyclé,Offset,2017,Gaumont,69 rue du Film,60,120,9€,8000,069
+Carte fidélité,Plastique,Numérique,2020,Carrefour,70 avenue du Client,54,86,0€,10000,070
+Etiquette bagage,Carton,Offset,2019,Air France,71 rue de l'Aéroport,60,100,0€,4000,071
+Carte d'accès,Plastique,Numérique,2021,Université,72 rue du Savoir,54,85,0€,2000,072
+Carte de bibliothèque,Plastique,Numérique,2018,Bibliothèque,73 rue des Livres,54,85,0€,3000,073
+Ticket de tram,Recyclé,Offset,2022,TAN,74 rue du Tramway,60,30,1.7€,12000,074
+Carte de membre,Carton,Numérique,2020,Club Sportif,75 rue du Sport,54,86,0€,800,075
+Etiquette alimentaire,Mat,Offset,2019,Supermarché,76 avenue des Fruits,40,60,0.05€,20000,076
+Carte cadeau,Carton,Numérique,2021,Fnac,77 rue du Cadeau,54,86,20€,500,077
+Ticket de parking,Recyclé,Offset,2018,Ville,78 rue du Stationnement,60,30,2€,7000,078
+Carte d'abonnement,Plastique,Numérique,2023,Théâtre,79 avenue des Arts,54,85,0€,600,079
+Etiquette colis,Carton,Offset,2020,La Poste,80 rue du Colis,60,100,0€,10000,080
+Carte d'identité,Plastique,Numérique,2019,Mairie,81 rue de la République,54,86,0€,1000,081
+Badge visiteur,Plastifié,Numérique,2022,Entreprise,82 rue du Bureau,70,100,0€,200,082
+Ticket de métro,Recyclé,Offset,2017,RATP,83 rue du Métro,60,30,1.9€,15000,083
+Carte d'accès piscine,Plastique,Numérique,2021,Commune,84 rue de la Piscine,54,85,0€,500,084
+Coupon repas,Carton,Offset,2018,Restaurant,85 avenue du Déjeuner,60,80,8€,3000,085
+Carte de transport scolaire,Plastique,Numérique,2020,Académie,86 rue de l'École,54,86,0€,1200,086
+Etiquette vin,Brillant,Sérigraphie,2019,Château,87 route du Vin,80,100,0.5€,10000,087
+Carte bancaire,Plastique,Numérique,2022,Banque,88 avenue de la Finance,54,86,0€,2000,088
+Badge conférence,Plastifié,Numérique,2023,ConfOrg,89 rue des Congrès,70,100,0€,800,089
+Ticket de concert,Recyclé,Offset,2018,ConcertLive,90 rue de la Musique,60,120,35€,4000,090
+Carte de réduction,Carton,Numérique,2021,Librairie,91 avenue du Livre,54,86,5€,1000,091
+Etiquette prix,Mat,Offset,2019,Magasin,92 rue du Commerce,30,50,0.01€,50000,092
+Carte de transport,Plastique,Numérique,2020,SNCF,93 rue de la Gare,54,85,0€,10000,093
+Ticket de bus,Recyclé,Offset,2021,TAN,94 rue du Transport,60,30,1€,10000,094
+Carte postale,Carton,Numérique,2019,La Poste,95 avenue du Timbre,100,150,0.8€,5000,095
+Coupon réduction,Mat,Offset,2021,Super U,96 place du Marché,50,80,2€,2000,096
+Etiquette vêtement,Brillant,Sérigraphie,2018,Zara,97 rue de la Mode,40,60,0.1€,30000,097
+Carte de visite,Carton,Numérique,2022,Imprimerie Dupont,98 avenue des Arts,55,85,0.2€,1000,098
+Badge événement,Plastifié,Numérique,2023,EventOrg,99 rue des Fêtes,70,100,0€,1500,099
+Ticket cinéma,Recyclé,Offset,2017,Gaumont,100 rue du Film,60,120,9€,8000,100
+Carte fidélité,Plastique,Numérique,2020,Carrefour,101 avenue du Client,54,86,0€,10000,101
+Etiquette bagage,Carton,Offset,2019,Air France,102 rue de l'Aéroport,60,100,0€,4000,102
+Carte d'accès,Plastique,Numérique,2021,Université,103 rue du Savoir,54,85,0€,2000,103
+Carte de bibliothèque,Plastique,Numérique,2018,Bibliothèque,104 rue des Livres,54,85,0€,3000,104
+Ticket de tram,Recyclé,Offset,2022,TAN,105 rue du Tramway,60,30,1.7€,12000,105
+Carte de membre,Carton,Numérique,2020,Club Sportif,106 rue du Sport,54,86,0€,800,106
+Etiquette alimentaire,Mat,Offset,2019,Supermarché,107 avenue des Fruits,40,60,0.05€,20000,107
+Carte cadeau,Carton,Numérique,2021,Fnac,108 rue du Cadeau,54,86,20€,500,108
+Ticket de parking,Recyclé,Offset,2018,Ville,109 rue du Stationnement,60,30,2€,7000,109
+Carte d'abonnement,Plastique,Numérique,2023,Théâtre,110 avenue des Arts,54,85,0€,600,110
+Etiquette colis,Carton,Offset,2020,La Poste,111 rue du Colis,60,100,0€,10000,111
+Carte d'identité,Plastique,Numérique,2019,Mairie,112 rue de la République,54,86,0€,1000,112
+Badge visiteur,Plastifié,Numérique,2022,Entreprise,113 rue du Bureau,70,100,0€,200,113
+Ticket de métro,Recyclé,Offset,2017,RATP,114 rue du Métro,60,30,1.9€,15000,114
+Carte d'accès piscine,Plastique,Numérique,2021,Commune,115 rue de la Piscine,54,85,0€,500,115
+Coupon repas,Carton,Offset,2018,Restaurant,116 avenue du Déjeuner,60,80,8€,3000,116
+Carte de transport scolaire,Plastique,Numérique,2020,Académie,117 rue de l'École,54,86,0€,1200,117
+Etiquette vin,Brillant,Sérigraphie,2019,Château,118 route du Vin,80,100,0.5€,10000,118
+Carte bancaire,Plastique,Numérique,2022,Banque,119 avenue de la Finance,54,86,0€,2000,119
+Badge conférence,Plastifié,Numérique,2023,ConfOrg,120 rue des Congrès,70,100,0€,800,120
+Ticket de concert,Recyclé,Offset,2018,ConcertLive,121 rue de la Musique,60,120,35€,4000,121
+Carte de réduction,Carton,Numérique,2021,Librairie,122 avenue du Livre,54,86,5€,1000,122
+Etiquette prix,Mat,Offset,2019,Magasin,123 rue du Commerce,30,50,0.01€,50000,123
+Carte de transport,Plastique,Numérique,2020,SNCF,124 rue de la Gare,54,85,0€,10000,124
+Ticket de bus,Recyclé,Offset,2021,TAN,125 rue du Transport,60,30,1€,10000,125
+Carte postale,Carton,Numérique,2019,La Poste,126 avenue du Timbre,100,150,0.8€,5000,126
+Coupon réduction,Mat,Offset,2021,Super U,127 place du Marché,50,80,2€,2000,127
+Etiquette vêtement,Brillant,Sérigraphie,2018,Zara,128 rue de la Mode,40,60,0.1€,30000,128
+Carte de visite,Carton,Numérique,2022,Imprimerie Dupont,129 avenue des Arts,55,85,0.2€,1000,129
+Badge événement,Plastifié,Numérique,2023,EventOrg,130 rue des Fêtes,70,100,0€,1500,130
+Ticket cinéma,Recyclé,Offset,2017,Gaumont,131 rue du Film,60,120,9€,8000,131
+Carte fidélité,Plastique,Numérique,2020,Carrefour,132 avenue du Client,54,86,0€,10000,132
+Etiquette bagage,Carton,Offset,2019,Air France,133 rue de l'Aéroport,60,100,0€,4000,133
+Carte d'accès,Plastique,Numérique,2021,Université,134 rue du Savoir,54,85,0€,2000,134
+Carte de bibliothèque,Plastique,Numérique,2018,Bibliothèque,135 rue des Livres,54,85,0€,3000,135
+Ticket de tram,Recyclé,Offset,2022,TAN,136 rue du Tramway,60,30,1.7€,12000,136
+Carte de membre,Carton,Numérique,2020,Club Sportif,137 rue du Sport,54,86,0€,800,137
+Etiquette alimentaire,Mat,Offset,2019,Supermarché,138 avenue des Fruits,40,60,0.05€,20000,138
+Carte cadeau,Carton,Numérique,2021,Fnac,139 rue du Cadeau,54,86,20€,500,139
+Ticket de parking,Recyclé,Offset,2018,Ville,140 rue du Stationnement,60,30,2€,7000,140
+Carte d'abonnement,Plastique,Numérique,2023,Théâtre,141 avenue des Arts,54,85,0€,600,141
+Etiquette colis,Carton,Offset,2020,La Poste,142 rue du Colis,60,100,0€,10000,142
+Carte d'identité,Plastique,Numérique,2019,Mairie,143 rue de la République,54,86,0€,1000,143
+Badge visiteur,Plastifié,Numérique,2022,Entreprise,144 rue du Bureau,70,100,0€,200,144
+Ticket de métro,Recyclé,Offset,2017,RATP,145 rue du Métro,60,30,1.9€,15000,145
+Carte d'accès piscine,Plastique,Numérique,2021,Commune,146 rue de la Piscine,54,85,0€,500,146
+Coupon repas,Carton,Offset,2018,Restaurant,147 avenue du Déjeuner,60,80,8€,3000,147
+Carte de transport scolaire,Plastique,Numérique,2020,Académie,148 rue de l'École,54,86,0€,1200,148
+Etiquette vin,Brillant,Sérigraphie,2019,Château,149 route du Vin,80,100,0.5€,10000,149
+Carte bancaire,Plastique,Numérique,2022,Banque,150 avenue de la Finance,54,86,0€,2000,150 
