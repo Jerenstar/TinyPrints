@@ -169,6 +169,7 @@ window.currentImagesData = [];
 
 // Ajout d'un throttle pour le flip
 window.lastFlipTime = 0;
+window.isFlipped = false;
 
 function triggerFlip() {
     const now = Date.now();
@@ -180,12 +181,15 @@ function triggerFlip() {
 // Flip sur hover (mouseenter/mouseleave) avec throttle uniquement sur mouseenter
 viewerImgContainer.addEventListener('mouseenter', () => {
     const now = Date.now();
-    if (now - window.lastFlipTime < 500) return;
-    window.lastFlipTime = now;
-    viewerImgContainer.classList.add('flipped');
+    if (!window.isFlipped && (now - window.lastFlipTime > 300)) {
+        window.lastFlipTime = now;
+        viewerImgContainer.classList.add('flipped');
+        window.isFlipped = true;
+    }
 });
 viewerImgContainer.addEventListener('mouseleave', () => {
     viewerImgContainer.classList.remove('flipped');
+    window.isFlipped = false;
 });
 
 function renderGallery(metadata = []) {
@@ -203,13 +207,46 @@ function renderGallery(metadata = []) {
         };
     });
 
-    // Mettre à jour la liste globale des images affichées (objets enrichis)
     window.currentImagesData = imagesData;
 
-    // Créer le menu de tri si ce n'est pas déjà fait
     if (!document.querySelector('.sort-bar')) {
         createSortOptions(metadata);
     }
+
+    // Préchargement des images
+    let loadedCount = 0;
+    const totalImages = imagesData.length;
+    galleryGrid.innerHTML = '';
+    galleryGrid.classList.remove('gallery-loaded');
+    const galleryItems = [];
+
+    imagesData.forEach((imgData, idx) => {
+        const galleryItem = document.createElement('div');
+        galleryItem.className = 'gallery-item';
+        const img = document.createElement('img');
+        img.src = imgData.path;
+        img.alt = imgData.nom || 'Image de la galerie';
+        img.style.opacity = '0';
+        galleryItem.appendChild(img);
+        galleryGrid.appendChild(galleryItem);
+        galleryItems.push(img);
+        galleryItem.addEventListener('click', (e) => {
+            openViewer(idx, window.currentImagesData, 0);
+        });
+        img.onload = img.onerror = () => {
+            loadedCount++;
+            if (loadedCount === totalImages) {
+                // Toutes les images sont chargées, effet fondu
+                setTimeout(() => {
+                    galleryItems.forEach((img, i) => {
+                        setTimeout(() => {
+                            img.style.opacity = '1';
+                        }, i * 40); // effet cascade
+                    });
+                }, 100);
+            }
+        };
+    });
 
     // Déclare openViewer AVANT la boucle de création des images
     function openViewer(idx, imagesData, direction = 0) {
@@ -313,21 +350,6 @@ function renderGallery(metadata = []) {
             }
         }, direction !== 0 ? 200 : 400);
     }
-
-    // Rendu des images
-    galleryGrid.innerHTML = '';
-    imagesData.forEach((imgData, idx) => {
-        const galleryItem = document.createElement('div');
-        galleryItem.className = 'gallery-item';
-        const img = document.createElement('img');
-        img.src = imgData.path;
-        img.alt = imgData.nom || 'Image de la galerie';
-        galleryItem.appendChild(img);
-        galleryGrid.appendChild(galleryItem);
-        galleryItem.addEventListener('click', (e) => {
-            openViewer(idx, window.currentImagesData, 0);
-        });
-    });
 
     function closeZoom() {
         viewer.classList.remove('active');
