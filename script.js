@@ -169,15 +169,24 @@ window.currentImagesData = [];
 
 let flipTimeout = null;
 
-viewerImgContainer.addEventListener('mouseenter', (e) => {
-    clearTimeout(flipTimeout);
-    viewerImgContainer.classList.add('flipped');
+function isTrueContainerEvent(e, container) {
+    // Vérifie que le mouseover/mouseout concerne bien le conteneur, pas un enfant
+    return !container.contains(e.relatedTarget);
+}
+
+viewerImgContainer.addEventListener('mouseover', (e) => {
+    if (isTrueContainerEvent(e, viewerImgContainer)) {
+        clearTimeout(flipTimeout);
+        viewerImgContainer.classList.add('flipped');
+    }
 });
 
-viewerImgContainer.addEventListener('mouseleave', (e) => {
-    flipTimeout = setTimeout(() => {
-        viewerImgContainer.classList.remove('flipped');
-    }, 120);
+viewerImgContainer.addEventListener('mouseout', (e) => {
+    if (isTrueContainerEvent(e, viewerImgContainer)) {
+        flipTimeout = setTimeout(() => {
+            viewerImgContainer.classList.remove('flipped');
+        }, 120);
+    }
 });
 
 function renderGallery(metadata = []) {
