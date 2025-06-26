@@ -167,29 +167,17 @@ const viewerMeta = document.getElementById('viewerMeta');
 // Variable globale pour garder la liste courante des images affichées
 window.currentImagesData = [];
 
-// Ajout d'un throttle pour le flip
-window.lastFlipTime = 0;
-window.isFlipped = false;
+let flipTimeout = null;
 
-function triggerFlip() {
-    const now = Date.now();
-    if (now - window.lastFlipTime > 2000) return; // 1 seconde
-    window.lastFlipTime = now;
-    viewerImgContainer.classList.toggle('flipped');
-}
-
-// Flip sur hover (mouseenter/mouseleave) avec throttle uniquement sur mouseenter
-viewerImgContainer.addEventListener('mouseenter', () => {
-    const now = Date.now();
-    if (!window.isFlipped && (now - window.lastFlipTime > 300)) {
-        window.lastFlipTime = now;
-        viewerImgContainer.classList.add('flipped');
-        window.isFlipped = true;
-    }
+viewerImgContainer.addEventListener('mouseenter', (e) => {
+    clearTimeout(flipTimeout);
+    viewerImgContainer.classList.add('flipped');
 });
-viewerImgContainer.addEventListener('mouseleave', () => {
-    viewerImgContainer.classList.remove('flipped');
-    window.isFlipped = false;
+
+viewerImgContainer.addEventListener('mouseleave', (e) => {
+    flipTimeout = setTimeout(() => {
+        viewerImgContainer.classList.remove('flipped');
+    }, 120);
 });
 
 function renderGallery(metadata = []) {
