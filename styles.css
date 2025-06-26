@@ -49,9 +49,9 @@ body::after {
 
 .site-title {
     font-family: Baskerville, Times, serif;
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: 400;
-    margin-bottom: 10px;
+    margin-bottom: 13px;
     letter-spacing: 0px;
     word-break: break-word;
     padding-left: 30px;
@@ -72,7 +72,7 @@ body::after {
 
 .site-desc {
     font-family: Baskerville, Georgia, serif;
-    font-size: 0.75rem;
+    font-size: 0.87rem;
     margin-top: 10px;
     font-weight: 400;
     color: #222;
@@ -105,6 +105,7 @@ body::after {
     margin: 0;
     justify-self: end;
     align-self: start;
+    font-size: 0.95rem;
 }
 
 .header-menu .menu-link:nth-child(1) {
@@ -159,6 +160,7 @@ body::after {
     margin: 0;
     justify-self: start;
     align-self: start;
+    font-size: 0.87rem;
 }
 .sort-bar .sort-option:nth-child(1) {
     margin-top: 0;
@@ -187,7 +189,8 @@ body::after {
 }
 
 .sort-option.active {
-    font-weight: bold;
+    font-weight: normal;
+    text-decoration: underline;
     opacity: 1;
 }
 
@@ -667,7 +670,7 @@ body::after {
     grid-auto-rows: minmax(32px, auto);
     margin-top: 32px;
     margin-left: 20px;
-    font-size: 0.85rem;
+    font-size: 0.87rem;
     width: 98vw;
     max-width: 1400px;
     column-gap: 0;
@@ -676,7 +679,7 @@ body::after {
     grid-column: 1 / 2;
     grid-row: 1 / span 7;
     align-self: start;
-    font-size: 0.85rem;
+    font-size: 0.87rem;
     font-family: inherit;
     font-weight: normal;
 }
@@ -708,7 +711,7 @@ body::after {
 }
 .participation-grid-v2 .type-sub {
     margin-left: 70px;
-    font-size: 0.85rem;
+    font-size: 0.87rem;
 }
 .participation-grid-v2 .quantities {
     display: flex;
@@ -732,4 +735,16 @@ body::after {
     font-size: 1.5rem;
     font-weight: normal;
     color: #222;
+}
+
+.site-desc,
+.sort-bar .sort-option,
+.header-menu .menu-link,
+.participation-grid-v2,
+.participation-grid-v2 .label,
+.participation-grid-v2 .value,
+.participation-grid-v2 .type-label,
+.participation-grid-v2 .type-list,
+.participation-grid-v2 .type-sub {
+    font-size: 0.87rem !important;
 }
